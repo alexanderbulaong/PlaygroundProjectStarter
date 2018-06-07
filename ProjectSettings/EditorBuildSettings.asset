@@ -6,16 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Defender/Defender.unity
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Football/Football.unity
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Lander/Lander.unity
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Maze/MazeLevel0.unity
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Maze/MazeLevel1.unity
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Test.unity
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/PiemansDanceOfDeath.unity
+    path: Assets/Examples/Roguelike/Roguelike.unity
+    guid: ad15a26015e49439387b05c22fe7a962
+  m_configObjects: {}
